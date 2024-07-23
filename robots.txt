@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://blog.namangoyal.com/sitemap.xml
+Sitemap: http://namangoyal.com/sitemap.xml
