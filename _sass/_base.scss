@@ -195,6 +195,16 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
+
+  .typed-info {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    // min-height: 30px; 
+    font-family: monospace;
+    display: inline-block;
+    margin: 0;
+  }
+
 }
 
 .profile.float-right {
@@ -531,6 +541,15 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  mjx-container[jax="CHTML"][display="true"] {
+    display: unset;
+  }
+}
+
+.post-title-typed {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 0;
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
