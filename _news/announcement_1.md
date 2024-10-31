@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started work in Google Gemini.
+Started work at Google DeepMind - Gemini.

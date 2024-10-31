@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started work at Autonomous Vehciles team at NVIDIA
+Started work with Autonomous Vehicles team at NVIDIA
